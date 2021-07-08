@@ -1,0 +1,35 @@
+ssh秘钥路径："C:\Users\25220\.ssh"
+
+25220@LAPTOP-D24FOK78 MINGW64 /d/GitRepository
+$ git config --global user.name "GitHubForComputer"
+
+25220@LAPTOP-D24FOK78 MINGW64 /d/GitRepository
+$ git config --global user.email "252201843@qq.com"
+
+25220@LAPTOP-D24FOK78 MINGW64 /d/GitRepository
+$
+
+
+Generating public/private rsa key pair.
+Enter file in which to save the key (/c/Users/25220/.ssh/id_rsa):
+Created directory '/c/Users/25220/.ssh'.
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /c/Users/25220/.ssh/id_rsa
+Your public key has been saved in /c/Users/25220/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:H7nsj3z8W8P57PFOK8Pl4g+z9cLo0jRpGukq1tgL7ZI 25220@LAPTOP-D24FOK78
+The key's randomart image is:
++---[RSA 3072]----+
+|                 |
+|                 |
+|                 |
+|           .     |
+|        S o. .   |
+|       . ooo= ...|
+|      .=..+B.*o*o|
+|      Eooo+.==B=B|
+|     . o+o+=++BBB|
++----[SHA256]-----+
+
+25220@LAPTOP-D24FOK78 MINGW64 /d/GitRepository
